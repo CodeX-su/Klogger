@@ -1,0 +1,16 @@
+🔑 Keylogger en Python
+Este es un keylogger minimalista y educativo desarrollado en Python. Su propósito es demostrar cómo funcionan los registros de teclas en sistemas operativos y servir como base para el aprendizaje de ciberseguridad y pruebas de penetración.
+
+⚠ Aviso Legal: Este software debe utilizarse únicamente en entornos autorizados y con el consentimiento del usuario. El uso indebido puede ser ilegal.
+
+🚀 Características
+✔ Registra todas las pulsaciones del teclado.
+✔ Guarda los registros en un archivo de texto.
+✔ Puede enviarlos a un correo electrónico (opcional).
+✔ Ligero y de fácil implementación.
+
+📌 Requisitos
+pynput==1.7.3
+pyscreenshot==0.5.1
+sounddevice==0.4.3
+Pillow==9.3.0
